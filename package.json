@@ -1,0 +1,22 @@
+{
+  "name": "xiaohongshu-crawler",
+  "version": "1.0.0",
+  "description": "小红书爬虫舆情分析工具",
+  "main": "xiaohongshu_crawler.js",
+  "scripts": {
+    "start": "node xiaohongshu_crawler.js"
+  },
+  "keywords": [
+    "puppeteer",
+    "crawler",
+    "xiaohongshu",
+    "sentiment-analysis"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.5.0",
+    "node-fetch": "^2.6.9",
+    "exceljs": "^4.3.0"
+  }
+} 
